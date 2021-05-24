@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaneDoan
-- 👀 I’m interested in video games, movies, manga(japanese comic).
+- 👀 I’m interested in video games, movies, manga (japanese comic).
 - 🌱 I’m currently learning Javascript/React, C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
