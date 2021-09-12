@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KaneDoan
 - 👀 I’m interested in video games, movies, anime.
-- 🌱 I’m currently learning Javascript/React, C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript/React, PHP/ Laravel, C#.
+
 
 <!---
 KaneDoan/KaneDoan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
