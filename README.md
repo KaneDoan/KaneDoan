@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaneDoan
 - 👀 I’m interested in video games, movies, anime.
-- 🌱 I’m currently learning Javascript/React, PHP/ Laravel, C#.
+- 🌱 I’m currently learning how to make video games in Unity.
 
 
 <!---
